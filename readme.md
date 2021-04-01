@@ -4,10 +4,9 @@
 
 # Pack for mod_Harbour
 
-
-<b>modHarbour</b>	Apache mod for Harbour
-<b>mercury</b>		MVC Hrb lib for mod
-<b>tweb</b>			Framework Hrb lib for mod based in bootstrap
+<br><b>modHarbour</b>	Apache mod for Harbour
+<br><b>mercury</b>		MVC Hrb lib for mod
+<br><b>tweb</b>			Framework Hrb lib for mod based in bootstrap
 
 ***
 
